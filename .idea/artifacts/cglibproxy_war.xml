@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cglibproxy:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cglibproxy.war">
+      <element id="artifact" artifact-name="cglibproxy:war exploded" />
+    </root>
+  </artifact>
+</component>
